@@ -1,27 +1,32 @@
 # Hi there, I'm Rehan R Sheikh 👋
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Salesforce+PD1+Developer;Building+Real+World+Solutions)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2E9EF7&center=true&vCenter=true&width=500&lines=Python+%7C+Django+Developer;FastAPI+%7C+REST+APIs+%7C+React.js;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** and **Salesforce Platform Developer** with expertise in building scalable web applications and enterprise solutions. I love creating clean, efficient code and solving real-world problems through technology.
+I'm a **Backend-Focused Python/Django Developer** who loves building scalable, API-driven web applications with clean architecture and real-world business use cases.
 
-- ➡️ Currently working on **Django & Salesforce projects**
-- ➡️ Learning **AWS Cloud Architecture** and **Advanced Salesforce Development**
-- ➡️ Open to **Full-time opportunities** and **Freelance projects**
-- ➡️ Email: **rehan.sheikh.career1@gmail.com**
-- ➡️ Phone: **+91 7719984704**
-- 🏞️ Based in **India**
+Along with Django, I also work with FastAPI, React.js, TailwindCSS, and modern DevOps tools.  
+I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelance client solutions.
+
+- 🔥 Currently focused on **Django, FastAPI & React.js**
+- 🔥 Open for **Full-time Python/Django Developer** roles  
+- 🔥 Available for **freelance projects** (Django + Salesforce Automation)  
+- ✉️ Email: **rehan.sheikh.career1@gmail.com**  
+- 📞 Phone: **+91 7719984704**  
+- 🌍 Based in **India**
 
 ---
 
 ## 💻 Tech Stack
 
-### Frontend Development
+### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,214 +34,139 @@ I'm a passionate **Full Stack Developer** and **Salesforce Platform Developer** 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend Development
+---
+
+### **Backend Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-Django%20REST%20Framework-red?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Salesforce Platform
+---
+
+### **Salesforce Automation (Freelance Skill)**
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-- **Admin:** Custom Objects, Validation Rules, Reports & Dashboards
-- **Apex:** Classes, Triggers, Test Classes (85%+ coverage)
-- **LWC:** Lightning Web Components, @wire decorators
-- **Flows:** Screen Flows, Scheduled Flows, Automation
 
-### DevOps & Tools
+- Apex (Classes, Triggers, Test Classes)
+- LWC (Interactive components, @wire)
+- Flows (Screen, Automated, Schedules)
+- Admin (Objects, Validation, Dashboards)
+
+---
+
+### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Core Competencies
-- ✅ **Authentication:** JWT, OAuth, Session Management
-- ✅ **Data Modeling:** Database Design, ER Diagrams, Relationships
-- ✅ **Responsive Design:** Mobile-first approach, Cross-browser compatibility
-- ✅ **Debugging:** Chrome DevTools, Python Debugger, Salesforce Debug Logs
-- ✅ **API Integration:** REST APIs, Third-party integrations
-- ✅ **Cybersecurity:** OWASP Top 10, Secure Coding, Vulnerability Scanning
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 
 ---
 
-## 👨‍💻💻 Featured Projects
-
-### 🌐 Full Stack Web Applications
-
-#### 1️⃣ Qairi - Air Quality Dashboard
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rehansheikhcareer1/Qairi-Air-Quality-Dashboard)
-
-Real-time air quality monitoring dashboard with weather integration and data visualization.
-
-**Tech Stack:** `Python` `Django` `JavaScript` `Chart.js` `REST APIs` `PostgreSQL`
-
-**Key Features:**
-- ✅ Real-time AQI data from multiple cities
-- ✅ Weather integration with forecasts
-- ✅ Interactive charts and visualizations
-- ✅ Air quality alerts and notifications
-- ✅ Responsive design for all devices
+### **Core Competencies**
+- 🔐 Authentication (Session & JWT)  
+- 🗂️ Data Modeling  
+- 🎯 API Design & Integration  
+- 📱 Responsive UI  
+- 🐞 Debugging & Optimization  
+- 🔍 Basic Security Practices (OWASP mindset)
 
 ---
 
-#### 2️⃣ Travint - Travel Booking Platform
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rehansheikhcareer1/travint)
+## 🚀 Featured Projects
 
-Complete travel booking platform with hotel reservations, flight bookings, and tour packages.
+### 🌐 **1️⃣ Qairi – Real-time Air Quality Dashboard**
+**Tech Stack:** `Python` `Django` `FastAPI` `React.js` `Chart.js` `REST APIs`
 
-**Tech Stack:** `Django` `React.js` `PostgreSQL` `Stripe API` `Bootstrap`
+- Real-time AQI data sync  
+- Weather integration  
+- Alerts + trend analysis  
+- Responsive Tailwind UI  
 
-**Key Features:**
-- ➡️ Hotel search and booking system
-- ➡️ Flight reservation integration
-- ➡️ Secure payment processing
-- ➡️ User authentication and profiles
-- ➡️ Email confirmations and notifications
-- ➡️ Reviews and ratings system
+🔗 **Code:**  
+https://github.com/rehansheikhcareer1/Qairi-Air-Quality-Dashboard  
 
 ---
 
-### ☁️ Salesforce Enterprise Solutions
+### 🌍 **2️⃣ Travint – Travel Booking Platform**
+**Tech Stack:** `Django` `React.js` `Stripe API` `Bootstrap`
 
-#### 3️⃣ Task & Project Tracker
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rehansheikhcareer1/Salesforce-Task-Tracker)
+- Hotel + flight search  
+- Authentication system  
+- Payments via Stripe  
+- Booking history + email notifications  
 
-Comprehensive task and project management system for team collaboration and progress tracking.
-
-**Tech Stack:** `Salesforce` `Apex` `LWC` `Flows` `SOQL`
-
-**Architecture:**
-- ➡️ **3 Custom Objects:** Project, Task, Team Member
-- ➡️ **4 Apex Classes:** Controllers, Handlers, Utilities (85%+ test coverage)
-- ➡️ **4 LWC Components:** Interactive dashboards and forms
-- 🔄 **2 Triggers:** Automated status updates and validations
-- ➡️ **Reports & Dashboards:** Real-time analytics
-
-**Key Features:**
-- ➡️ Project lifecycle management
-- ➡️ Task assignment and tracking
-- ➡️ Team member collaboration
-- 🔄 Automated status updates
-- ➡️ Progress tracking with rollup summaries
-- ➡️ Real-time dashboards and reports
+🔗 **Code:**  
+https://github.com/rehansheikhcareer1/travint  
 
 ---
 
-#### 4️⃣ Invoice & Payment Management System
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rehansheikhcareer1/Salesforce-Invoice-Management)
+## ☁️ Salesforce Projects (Freelance)
 
-Professional financial management system for client invoicing, payments, and automated tracking.
+### 3️⃣ **Task & Project Tracker (Apex + LWC + Flows)**  
+- Custom objects  
+- LWC components  
+- Automated flows  
+- Test classes (85%+ coverage)
 
-**Tech Stack:** `Salesforce` `Apex` `LWC` `Flows` `Formula Fields`
-
-**Architecture:**
-- ✅ **4 Custom Objects:** Client, Invoice, Line Item, Payment
-- ✅ **5 Apex Classes:** InvoiceController, PaymentController, Handlers, Utilities
-- ✅ **5 LWC Components:** Invoice creator, Payment recorder, Dashboards
-- ✅ **3 Triggers:** Invoice automation, Payment processing
-- ✅ **2 Scheduled Flows:** Status updates, Payment reminders
-- ✅ **3 Validation Rules:** Business logic enforcement
-
-**Key Features:**
-- ➡️ Client relationship management
-- ➡️ Multi-line item invoicing
-- ➡️ Automated tax calculations (formula fields)
-- ➡️ Payment tracking with validation
-- ➡️ Auto-status updates (Draft → Sent → Partially Paid → Paid → Overdue)
-- ➡️ Real-time financial summaries
-- ➡️ Payment reminders via Flow
-- ➡️ Analytics dashboard with insights
-
-**Technical Highlights:**
-```apex
-// Clean, maintainable code with proper error handling
-@AuraEnabled(cacheable=true)
-public static List<Invoice__c> getClientInvoices(Id clientId) {
-    try {
-        return [SELECT Id, Name, Total_Amount__c, Balance_Due__c 
-                FROM Invoice__c 
-                WHERE Client__c = :clientId 
-                ORDER BY Invoice_Date__c DESC];
-    } catch (Exception e) {
-        throw new AuraHandledException('Error: ' + e.getMessage());
-    }
-}
-```
+### 4️⃣ **Invoice & Payment Automation System**  
+- Apex controllers  
+- Payment automation  
+- Status flows  
+- Dashboards  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehansheikhcareer1&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rehansheikhcareer1&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rehansheikhcareer1&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 ## 🏆 Certifications
-
-- 🎓 **Salesforce Certified Platform Developer I (PD1)**
-- 🎓 **Python Programming Certification**
-- 🎓 **Web Development Bootcamp**
+- Salesforce PD1  
+- Python Programming  
+- Web Development Bootcamp  
 
 ---
 
-## 📈 What I'm Working On
+## 📈 What I’m Working On
 
 ```javascript
 const rehan = {
-    currentFocus: "Building scalable enterprise solutions",
-    learning: ["AWS Cloud Architecture", "Advanced Salesforce", "React Native"],
-    lookingFor: "Full-time opportunities in Full Stack or Salesforce Development",
+    currentFocus: "Backend development with Django & FastAPI",
+    learning: ["React", "Scalable API architectures"],
+    openFor: "Full-time Python/Django Developer roles",
     funFact: "I debug code faster than I debug my life 😄"
 };
 ```
 
 ---
 
-## 👨‍💻 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehansheikhcareer1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehan.sheikh.career1@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917719984704)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/rehansheikhcareer1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rehansheikh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/rehansheikhcareer1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/917719984704)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:rehan.sheikh.career1@gmail.com)
 
 </div>
 
 ---
 
-## 💡 Development Philosophy
-
-> "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of what to do and what not to do. Professionalism and craftsmanship come from discipline and practice."
-
-I believe in:
-- ✅ Writing clean, maintainable code
-- ✅ Following best practices and design patterns
-- ✅ Comprehensive testing and documentation
-- ✅ Continuous learning and improvement
-- ✅ Building solutions that make a difference
+## 💡 Development Philosophy  
+> “Clean architecture. Strong logic. Real-world impact.”
 
 ---
 
-<div align="center">
-
-###  "Code is like humor. When you have to explain it, it's bad." 
-
-![Profile Views](https://komarev.com/ghpvc/?username=rehansheikhcareer1&color=blueviolet&style=for-the-badge)
-
-**Thanks for visiting! Feel free to explore my repositories and reach out for collaboration! **
-
-</div>
