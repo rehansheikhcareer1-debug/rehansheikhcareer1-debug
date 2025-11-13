@@ -6,16 +6,16 @@
 
 </div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I'm a passionate **Full Stack Developer** and **Salesforce Platform Developer** with expertise in building scalable web applications and enterprise solutions. I love creating clean, efficient code and solving real-world problems through technology.
 
-- 🔭 Currently working on **Django & Salesforce projects**
-- 🌱 Learning **AWS Cloud Architecture** and **Advanced Salesforce Development**
-- 💼 Open to **Full-time opportunities** and **Freelance projects**
-- 📫 Email: **rehan.sheikh.career1@gmail.com**
-- 📱 Phone: **+91 7719984704**
-- 📍 Based in **India**
+- ➡️ Currently working on **Django & Salesforce projects**
+- ➡️ Learning **AWS Cloud Architecture** and **Advanced Salesforce Development**
+- ➡️ Open to **Full-time opportunities** and **Freelance projects**
+- ➡️ Email: **rehan.sheikh.career1@gmail.com**
+- ➡️ Phone: **+91 7719984704**
+- 🏞️ Based in **India**
 
 ---
 
@@ -54,16 +54,16 @@ I'm a passionate **Full Stack Developer** and **Salesforce Platform Developer** 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Core Competencies
-- 🔐 **Authentication:** JWT, OAuth, Session Management
-- 🗄️ **Data Modeling:** Database Design, ER Diagrams, Relationships
-- 📱 **Responsive Design:** Mobile-first approach, Cross-browser compatibility
-- 🐛 **Debugging:** Chrome DevTools, Python Debugger, Salesforce Debug Logs
-- 🔌 **API Integration:** REST APIs, Third-party integrations
-- 🛡️ **Cybersecurity:** OWASP Top 10, Secure Coding, Vulnerability Scanning
+- ✅ **Authentication:** JWT, OAuth, Session Management
+- ✅ **Data Modeling:** Database Design, ER Diagrams, Relationships
+- ✅ **Responsive Design:** Mobile-first approach, Cross-browser compatibility
+- ✅ **Debugging:** Chrome DevTools, Python Debugger, Salesforce Debug Logs
+- ✅ **API Integration:** REST APIs, Third-party integrations
+- ✅ **Cybersecurity:** OWASP Top 10, Secure Coding, Vulnerability Scanning
 
 ---
 
-## 🎯 Featured Projects
+## 👨‍💻💻 Featured Projects
 
 ### 🌐 Full Stack Web Applications
 
@@ -75,11 +75,11 @@ Real-time air quality monitoring dashboard with weather integration and data vis
 **Tech Stack:** `Python` `Django` `JavaScript` `Chart.js` `REST APIs` `PostgreSQL`
 
 **Key Features:**
-- 🌍 Real-time AQI data from multiple cities
-- 🌤️ Weather integration with forecasts
-- 📊 Interactive charts and visualizations
-- 🔔 Air quality alerts and notifications
-- 📱 Responsive design for all devices
+- ✅ Real-time AQI data from multiple cities
+- ✅ Weather integration with forecasts
+- ✅ Interactive charts and visualizations
+- ✅ Air quality alerts and notifications
+- ✅ Responsive design for all devices
 
 ---
 
@@ -91,16 +91,16 @@ Complete travel booking platform with hotel reservations, flight bookings, and t
 **Tech Stack:** `Django` `React.js` `PostgreSQL` `Stripe API` `Bootstrap`
 
 **Key Features:**
-- 🏨 Hotel search and booking system
-- ✈️ Flight reservation integration
-- 💳 Secure payment processing
-- 👤 User authentication and profiles
-- 📧 Email confirmations and notifications
-- ⭐ Reviews and ratings system
+- ➡️ Hotel search and booking system
+- ➡️ Flight reservation integration
+- ➡️ Secure payment processing
+- ➡️ User authentication and profiles
+- ➡️ Email confirmations and notifications
+- ➡️ Reviews and ratings system
 
 ---
 
-### ⚡ Salesforce Enterprise Solutions
+### ☁️ Salesforce Enterprise Solutions
 
 #### 3️⃣ Task & Project Tracker
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/rehansheikhcareer1/Salesforce-Task-Tracker)
@@ -110,19 +110,19 @@ Comprehensive task and project management system for team collaboration and prog
 **Tech Stack:** `Salesforce` `Apex` `LWC` `Flows` `SOQL`
 
 **Architecture:**
-- 📦 **3 Custom Objects:** Project, Task, Team Member
-- 💻 **4 Apex Classes:** Controllers, Handlers, Utilities (85%+ test coverage)
-- ⚡ **4 LWC Components:** Interactive dashboards and forms
+- ➡️ **3 Custom Objects:** Project, Task, Team Member
+- ➡️ **4 Apex Classes:** Controllers, Handlers, Utilities (85%+ test coverage)
+- ➡️ **4 LWC Components:** Interactive dashboards and forms
 - 🔄 **2 Triggers:** Automated status updates and validations
-- 📊 **Reports & Dashboards:** Real-time analytics
+- ➡️ **Reports & Dashboards:** Real-time analytics
 
 **Key Features:**
-- 📋 Project lifecycle management
-- ✅ Task assignment and tracking
-- 👥 Team member collaboration
+- ➡️ Project lifecycle management
+- ➡️ Task assignment and tracking
+- ➡️ Team member collaboration
 - 🔄 Automated status updates
-- 📈 Progress tracking with rollup summaries
-- 📊 Real-time dashboards and reports
+- ➡️ Progress tracking with rollup summaries
+- ➡️ Real-time dashboards and reports
 
 ---
 
@@ -134,22 +134,22 @@ Professional financial management system for client invoicing, payments, and aut
 **Tech Stack:** `Salesforce` `Apex` `LWC` `Flows` `Formula Fields`
 
 **Architecture:**
-- 📦 **4 Custom Objects:** Client, Invoice, Line Item, Payment
-- 💻 **5 Apex Classes:** InvoiceController, PaymentController, Handlers, Utilities
-- ⚡ **5 LWC Components:** Invoice creator, Payment recorder, Dashboards
-- 🔄 **3 Triggers:** Invoice automation, Payment processing
-- 📋 **2 Scheduled Flows:** Status updates, Payment reminders
+- ✅ **4 Custom Objects:** Client, Invoice, Line Item, Payment
+- ✅ **5 Apex Classes:** InvoiceController, PaymentController, Handlers, Utilities
+- ✅ **5 LWC Components:** Invoice creator, Payment recorder, Dashboards
+- ✅ **3 Triggers:** Invoice automation, Payment processing
+- ✅ **2 Scheduled Flows:** Status updates, Payment reminders
 - ✅ **3 Validation Rules:** Business logic enforcement
 
 **Key Features:**
-- 👥 Client relationship management
-- 📄 Multi-line item invoicing
-- 💰 Automated tax calculations (formula fields)
-- 💳 Payment tracking with validation
-- 🔄 Auto-status updates (Draft → Sent → Partially Paid → Paid → Overdue)
-- 📊 Real-time financial summaries
-- 🔔 Payment reminders via Flow
-- 📈 Analytics dashboard with insights
+- ➡️ Client relationship management
+- ➡️ Multi-line item invoicing
+- ➡️ Automated tax calculations (formula fields)
+- ➡️ Payment tracking with validation
+- ➡️ Auto-status updates (Draft → Sent → Partially Paid → Paid → Overdue)
+- ➡️ Real-time financial summaries
+- ➡️ Payment reminders via Flow
+- ➡️ Analytics dashboard with insights
 
 **Technical Highlights:**
 ```apex
@@ -204,7 +204,7 @@ const rehan = {
 
 ---
 
-## 🤝 Let's Connect
+## 👨‍💻 Let's Connect
 
 <div align="center">
 
@@ -233,10 +233,10 @@ I believe in:
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
+###  "Code is like humor. When you have to explain it, it's bad." 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rehansheikhcareer1&color=blueviolet&style=for-the-badge)
 
-**Thanks for visiting! Feel free to explore my repositories and reach out for collaboration! 🚀**
+**Thanks for visiting! Feel free to explore my repositories and reach out for collaboration! **
 
 </div>
