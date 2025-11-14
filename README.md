@@ -83,6 +83,8 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 
 ## 👨‍💻 Featured Projects
 
+### 👨‍💻 **Django Projects**
+
 ### 🌐 **1️⃣ Qairi – Real-time Air Quality Dashboard**
 
 **Tech Stack:** `Python` `Django` `FastAPI` `React.js` `Chart.js` `REST APIs`
@@ -107,7 +109,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 
 🔗 **Code:** https://github.com/rehansheikhcareer1/travint  
 
-### 💼 **7️⃣ BusinessPro – Professional Business Website**
+### 💼 **3️⃣ BusinessPro – Professional Business Website**
 
 **Tech Stack:** `Django` `Python` `SQLite/MySQL` `Bootstrap` `Email Integration`
 
@@ -122,7 +124,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 
 ## ☁️ Salesforce Projects (Freelance)
 
-### 3️⃣ **Task & Project Tracker (Apex + LWC + Flows)**  
+### 1️⃣ **Task & Project Tracker (Apex + LWC + Flows)**  
 
 - Custom objects  
 - LWC components  
@@ -131,7 +133,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 
 ---
 
-### 4️⃣ **Invoice & Payment Automation System**  
+### 2️⃣ **Invoice & Payment Automation System**  
 
 - Apex controllers  
 - Payment automation  
@@ -140,7 +142,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 
 ---
 
-### 🏥 **5️⃣ Hospital Management System**
+### 🏥 **3️⃣ Hospital Management System**
 
 **Tech Stack:** `Salesforce` `Apex` `LWC` `Flow` `Admin`
 
@@ -154,7 +156,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 
 ---
 
-### 💰 **6️⃣ Loan Approval Automation**
+### 💰 **4️⃣ Loan Approval Automation**
 
 **Tech Stack:** `Salesforce` `Apex` `LWC` `Flow` `Admin`
 
